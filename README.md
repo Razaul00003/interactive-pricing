@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution on github repo](https://github.com/Razaul00003/interactive-pricing)
 - Live Site URL: [https://interactive-pricing-razaul.netlify.app/]()
 
 ## My process
